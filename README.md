@@ -1,2 +1,2 @@
 # Control-and-Automation
-Welcome to my control and Automation learning journey
+Welcome to my Control and Automation learning journey
