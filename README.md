@@ -1,2 +1,3 @@
 # Control-and-Automation
-Welcome to my Control and Automation learning journey
+I recently finished my master's degree in engineering physics, however, my master's thesis of developing a Stewart Platform used to perform wave compensation aboard a ship made me realize Instrumentation, Control engineering and Automation is what I want to work in. With that said I will be building a portfolio, of sorts, comprised of simulations of control systems, automation simulations and real life projects and reports for each week of learning.
+All projects built during this plan have their own separate directory. Additionally, there is also a directory that contains a report for each week.
